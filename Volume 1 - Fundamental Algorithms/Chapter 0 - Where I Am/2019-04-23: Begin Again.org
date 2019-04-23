@@ -1,0 +1,21 @@
+* New Beginings
+
+** What's up this time?
+
+You may notice that this is a different file extension! 
+
+This is an org-mode file, I've started using Spacemacs. I'm unsure if this will be a "forever change" as I've heard some people say, but I think it might be! 
+
+Spacemacs combines all the great parts of Emacs and Vim, allowing me to (hopefully) be able to more efficiently create and edit files, especially these org-mode files.
+
+org-mode is a major mode in emacs that makes organizing documents much more easy and efficient. This would mean that I feasibly could create less files, but since I'm putting these up on Github, I don't think I will do that.
+
+However, one nice thing about org-mode is that it makes exporting html files super easy. This will be great for if this repo turns into a blog or something similar. Org-mode also has support for LaTeX built in, which will be helpful for writing algorithms.
+
+** Where am I now?
+
+I hit a point where I was learning less about copmuter science/programming, and spending more time working on design, accessibility, and other similar concepts. 
+
+I've been applying to jobs, so I have been focusing less on learning, except for some more job-specific topics. This is fine, but I feel that I need to start back on my computer science journey, so that's why I'm opening this book again.
+
+Today I open this book for the second time, and hopefully make it further than the first!
