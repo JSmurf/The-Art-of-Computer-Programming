@@ -14,10 +14,10 @@ However, one nice thing about org-mode is that it makes exporting html files sup
 
 ** Where am I now?
 
-I hit a point where I was learning less about copmuter science/programming, and spending more time working on design, accessibility, and other similar concepts. 
+I hit a point where I was learning less about computer science/programming, and spending more time working on design, accessibility, and other similar concepts. 
 
 I've been applying to jobs, so I have been focusing less on learning, except for some more job-specific topics. This is fine, but I feel that I need to start back on my computer science journey, so that's why I'm opening this book again.
 
 Today I open this book for the second time, and hopefully make it further than the first!
 
-I have noticed that I didn't write any notest the first time through. I will do my best to write notes about all of the concepts, including those that I know. This way, on future attempts, I can point out where I am building on my previous knowledge.
+I have noticed that I didn't write any notes the first time through. I will do my best to write notes about all of the concepts, including those that I know. This way, on future attempts, I can point out where I am building on my previous knowledge.
